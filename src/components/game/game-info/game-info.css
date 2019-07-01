@@ -1,0 +1,6 @@
+.gameInfo {
+    display: flex;
+    align-content: flex-start;
+    margin-left: 30px;
+    background: #61dafb;
+}
